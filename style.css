@@ -1,0 +1,14 @@
+body {
+	background-color: #fffaf0;
+	font-family: sans-serif;
+	margin: 50 px;
+}
+
+h1 {
+	color: #5c4033;
+}
+
+p {
+	color: black;
+	margin-bottom: 30px;
+}
