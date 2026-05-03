@@ -41,7 +41,7 @@ nav {
 main {
 	grid-row: 2 / 3;
 	grid-column: 2 / 3;
-	height: max-content;
+	height: 420px;
 	background-color: #ede8d0;
 	color: rgba(84, 57, 57, 0.973);
 }
@@ -55,7 +55,7 @@ footer {
 	font-weight: bold;
 	padding: 50px;
 	color: rgba(84, 57, 57, 0.973);
-	margin-top: 200px;
+	margin-top: 5px;
 }
 
 h1 {
@@ -86,8 +86,8 @@ li {
 .main-img {
 	width: 700px;
 	opacity: 0.8;
-	margin-bottom: 10px;
 	margin-left: 14px;
+	margin-top: -12px;
 }
 .nav-img {
 	width: 220px;
@@ -99,4 +99,8 @@ h4 {
 	color: rgba(84, 57, 57, 0.973);
 	margin-top: -247px;
 	margin-left: 45px;
+}
+
+h5 {
+	margin-top: -30px;
 }
