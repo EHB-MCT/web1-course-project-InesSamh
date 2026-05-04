@@ -196,3 +196,14 @@ h9 {
 	margin-bottom: 11px;
 	margin-left: 50px;
 }
+
+img {
+	transition:
+		transform 0.3 ease,
+		opacity 0.3s ease;
+}
+
+img:hover {
+	transform: scale(1.05);
+	opacity: 1;
+}
