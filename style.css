@@ -110,3 +110,19 @@ h4 {
 h5 {
 	margin-top: -30px;
 }
+
+.page1-img {
+	width: 300px;
+	opacity: 0.8;
+	margin-left: 200px;
+	margin-top: 14px;
+}
+
+h6 {
+	color: black;
+	font-family: monospace;
+	font-size: 14px;
+	font-weight: lighter;
+	padding: 30px;
+	margin-top: -5px;
+}
