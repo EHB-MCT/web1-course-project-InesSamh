@@ -1,3 +1,9 @@
+@media (min-width: 768px) {
+	.lay-out {
+		grid-template-columns: 1fr;
+	}
+}
+
 html {
 	background:
 		linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)),
