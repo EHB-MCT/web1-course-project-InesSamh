@@ -47,7 +47,7 @@ nav {
 main {
 	grid-row: 2 / 3;
 	grid-column: 2 / 3;
-	height: 420px;
+	height: max-content;
 	background-color: #ede8d0;
 	color: rgba(84, 57, 57, 0.973);
 }
@@ -93,7 +93,8 @@ li {
 	width: 700px;
 	opacity: 0.8;
 	margin-left: 14px;
-	margin-top: -12px;
+	margin-top: -11px;
+	margin-bottom: 9px;
 }
 .nav-img {
 	width: 220px;
@@ -125,4 +126,73 @@ h6 {
 	font-weight: lighter;
 	padding: 30px;
 	margin-top: -5px;
+}
+
+h7 {
+	color: black;
+	font-family: monospace;
+	font-size: 14px;
+	font-weight: lighter;
+	padding: 50px;
+	margin-left: 10px;
+	margin-right: -500px;
+}
+
+h8 {
+	color: black;
+	font-family: monospace;
+	font-size: 14px;
+	font-weight: lighter;
+	padding: 30px;
+}
+
+#welcome {
+	width: 300px;
+	margin-top: 20px;
+	margin-bottom: 14px;
+	margin-left: 30px;
+	opacity: 0.8;
+}
+
+#tea {
+	width: 400px;
+	margin-bottom: 14px;
+	opacity: 0.8;
+	margin-left: 16px;
+}
+#car {
+	width: 190px;
+	margin-left: 460px;
+	margin-bottom: -80px;
+	opacity: 0.8;
+}
+
+h9 {
+	color: black;
+	font-family: monospace;
+	font-size: 14px;
+	font-weight: lighter;
+	margin-top: -10px;
+	margin-left: 450px;
+}
+
+#jacob {
+	width: 270px;
+	margin-bottom: 50px;
+	opacity: 0.8;
+	margin-left: 436px;
+	margin-top: -500px;
+}
+
+#edward {
+	width: 700px;
+	opacity: 0.9;
+	margin-left: 15px;
+}
+
+#charlie {
+	width: 310px;
+	opacity: 0.8;
+	margin-bottom: 11px;
+	margin-left: 50px;
 }
